@@ -1,2 +1,2 @@
-# kaixin.github.io
+# kaixinBlog
 personal website
